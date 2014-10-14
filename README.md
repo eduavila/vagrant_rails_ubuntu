@@ -151,7 +151,3 @@ Then
     host $ vagrant up
 
 Please check the Vagrant documentation on [NFS synced folders](http://docs.vagrantup.com/v2/synced-folders/nfs.html) for more information.
-
-## License
-
-Released under the MIT License, Copyright (c) 2012–<i>ω</i> Xavier Noria.
